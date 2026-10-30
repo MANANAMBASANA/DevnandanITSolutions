@@ -4019,7 +4019,7 @@ html[data-theme="light"] .dn-loader-tag {
   object-position: center;
 }
 .dn-credit {
-    display: none;
+    display: none!important;
 }
 .dn-project-concept::before {
   content: "";
