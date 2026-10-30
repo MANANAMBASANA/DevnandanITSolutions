@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Construction Website",
+    "url": "https://bcpavinginc.com/",
+    "status": "captured",
+    "file": "public/img/project-01.webp",
+    "title": ""
+  },
+  {
+    "name": "Festival Website",
+    "url": "https://hightidefestival.com/",
+    "status": "captured",
+    "file": "public/img/project-02.webp",
+    "title": "Low Tide Festival 2026 \u2013 High Tide Festival 2026"
+  },
+  {
+    "name": "E-Commerce Website",
+    "url": "https://pureshilajit.uk/",
+    "status": "captured",
+    "file": "public/img/project-03.webp",
+    "title": "Pure Shilajit UK | High-Quality Resin Supplements"
+  },
+  {
+    "name": "Shopify Website",
+    "url": "https://paramedicflash.com/",
+    "status": "captured",
+    "file": "public/img/project-04.webp",
+    "title": "Paramedic Drug Flashcards \u2013 Paramedic Flash"
+  },
+  {
+    "name": "Food and Parties Website",
+    "url": "https://kennismarket.devamtechnologies.com/",
+    "status": "unavailable",
+    "title": "",
+    "error": "The page returned blank content on two capture attempts."
+  },
+  {
+    "name": "CA / CPA Website",
+    "url": "https://cpfus.com/",
+    "status": "captured",
+    "file": "public/img/project-06.webp",
+    "title": "cpfus.com"
+  }
+]
