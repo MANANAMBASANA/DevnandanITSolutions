@@ -4018,6 +4018,9 @@ html[data-theme="light"] .dn-loader-tag {
 .dn-project-concept > img {
   object-position: center;
 }
+.dn-credit {
+    display: none;
+}
 .dn-project-concept::before {
   content: "";
   position: absolute;
